@@ -56,4 +56,4 @@ prose:
           label: "Permalink"
           value: ""
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
